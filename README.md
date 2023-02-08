@@ -3,3 +3,5 @@
 > - Simple Calculator
 > - Matrix Addition
 > - Matrix Transpose
+> - Sort Alphabetical Order
+> - List Operation

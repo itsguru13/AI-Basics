@@ -1,4 +1,5 @@
-# LIST OF PROGRAMS
+# CSA1795-AI
+## LIST OF PROGRAMS
 > - Heuristic Search
 > - Simple Calculator
 > - Matrix Addition

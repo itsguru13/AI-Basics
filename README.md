@@ -1,5 +1,6 @@
 # CSA1795-AI
-## LIST OF PROGRAMS
+# LIST OF PROGRAMS
+## Python
 > - Heuristic Search
 > - Simple Calculator
 > - Matrix Addition
@@ -20,4 +21,24 @@
 > - DFS
 > - Travelling Salesman Problem
 > - A* Algorithm
+> - Map Coloring (CSP)
 > - Tic Tac Toe Game
+> - Min Max Algorithm
+> - Alpha and Beta Pruning
+> - Decision Tree
+> - Feed Forward Nueral Network
+## Prolog
+> - Sum Integers
+> - Name and DOB
+> - Student Teacher Subject Code
+> - Planets DB
+> - Towers of Hanoi
+> - Bird Fly or not Fly
+> - Family Tree
+> - Dieting System
+> - Monkey Banana
+> - Fruit Color
+> - Best First Search Algorithm
+> - Medical Diagnosis
+> - Forward Chaining
+> - Backward Chaining

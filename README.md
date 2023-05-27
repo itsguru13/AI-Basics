@@ -1,4 +1,4 @@
-# CSA1795-AI
+# AI Basics
 # LIST OF PROGRAMS
 ## Python
 > - Heuristic Search
